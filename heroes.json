@@ -4,7 +4,8 @@
   "formed" : 2019,
   "secretBase" : "Base Imperio Del Sueño",
   "active" : true,
-  "members" : 3 [
+  "members" : 
+  [
     {
       "name" : "Reina De La Luz",
       "age" : 25,
