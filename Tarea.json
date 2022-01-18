@@ -1,0 +1,42 @@
+{
+  "squadName" : "Protectores De La Lucha",
+  "homeTown" : "Ciudad Boom",
+  "formed" : 2019,
+  "secretBase" : "Base Imperio Del Sueño",
+  "active" : En Servicio,
+  "members" : 3 [
+    {
+      "name" : "Reina De La Luz",
+      "age" : 25,
+      "secretIdentity" : "Esmeralda Parker",
+      "powers" : [
+        "Explosion Solar",
+        "Resistencia Al Fuego",
+        "Arco De Luz"
+      ]
+    },
+    {
+      "name" : "Hombre Destructor",
+      "age" : 29,
+      "secretIdentity" : "Angel Colucci",
+      "powers" : [
+        "Resistencia Al Daño",
+        "Super Fuerza",
+        "Volar",
+        "Rayos Laser"
+      ]
+    },
+    {
+      "name" : "Princesa De Corazones",
+      "age" : 17,
+      "secretIdentity" : "Vianey Rodriguez",
+      "powers" : [
+        "Inmortalidad",
+        "Enamoramiento",
+        "Teleportacion",
+        "Viaje Multidimensional",
+        "Volar"
+      ]
+    }
+  ]
+}
