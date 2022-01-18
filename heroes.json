@@ -3,7 +3,7 @@
   "homeTown" : "Ciudad Boom",
   "formed" : 2019,
   "secretBase" : "Base Imperio Del Sueño",
-  "active" : En Servicio,
+  "active" : true,
   "members" : 3 [
     {
       "name" : "Reina De La Luz",
